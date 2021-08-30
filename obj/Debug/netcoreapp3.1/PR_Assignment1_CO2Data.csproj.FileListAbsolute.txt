@@ -1,0 +1,17 @@
+C:\Users\ashar47\source\repos\PR_Assignment1_CO2Data\PR_Assignment1_CO2Data\bin\Debug\netcoreapp3.1\PR_Assignment1_CO2Data.exe
+C:\Users\ashar47\source\repos\PR_Assignment1_CO2Data\PR_Assignment1_CO2Data\bin\Debug\netcoreapp3.1\PR_Assignment1_CO2Data.deps.json
+C:\Users\ashar47\source\repos\PR_Assignment1_CO2Data\PR_Assignment1_CO2Data\bin\Debug\netcoreapp3.1\PR_Assignment1_CO2Data.runtimeconfig.json
+C:\Users\ashar47\source\repos\PR_Assignment1_CO2Data\PR_Assignment1_CO2Data\bin\Debug\netcoreapp3.1\PR_Assignment1_CO2Data.runtimeconfig.dev.json
+C:\Users\ashar47\source\repos\PR_Assignment1_CO2Data\PR_Assignment1_CO2Data\bin\Debug\netcoreapp3.1\PR_Assignment1_CO2Data.dll
+C:\Users\ashar47\source\repos\PR_Assignment1_CO2Data\PR_Assignment1_CO2Data\bin\Debug\netcoreapp3.1\PR_Assignment1_CO2Data.pdb
+C:\Users\ashar47\source\repos\PR_Assignment1_CO2Data\PR_Assignment1_CO2Data\obj\Debug\netcoreapp3.1\PR_Assignment1_CO2Data.csproj.AssemblyReference.cache
+C:\Users\ashar47\source\repos\PR_Assignment1_CO2Data\PR_Assignment1_CO2Data\obj\Debug\netcoreapp3.1\PR_Assignment1_CO2Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashar47\source\repos\PR_Assignment1_CO2Data\PR_Assignment1_CO2Data\obj\Debug\netcoreapp3.1\PR_Assignment1_CO2Data.AssemblyInfoInputs.cache
+C:\Users\ashar47\source\repos\PR_Assignment1_CO2Data\PR_Assignment1_CO2Data\obj\Debug\netcoreapp3.1\PR_Assignment1_CO2Data.AssemblyInfo.cs
+C:\Users\ashar47\source\repos\PR_Assignment1_CO2Data\PR_Assignment1_CO2Data\obj\Debug\netcoreapp3.1\PR_Assignment1_CO2Data.csproj.CoreCompileInputs.cache
+C:\Users\ashar47\source\repos\PR_Assignment1_CO2Data\PR_Assignment1_CO2Data\obj\Debug\netcoreapp3.1\PR_Assignment1_CO2Data.dll
+C:\Users\ashar47\source\repos\PR_Assignment1_CO2Data\PR_Assignment1_CO2Data\obj\Debug\netcoreapp3.1\PR_Assignment1_CO2Data.pdb
+C:\Users\ashar47\source\repos\PR_Assignment1_CO2Data\PR_Assignment1_CO2Data\obj\Debug\netcoreapp3.1\PR_Assignment1_CO2Data.genruntimeconfig.cache
+C:\Users\ashar47\source\repos\PR_Assignment1_CO2Data\PR_Assignment1_CO2Data\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ashar47\source\repos\PR_Assignment1_CO2Data\PR_Assignment1_CO2Data\obj\Debug\netcoreapp3.1\PR_Assignment1_CO2Data.csproj.CopyComplete
+C:\Users\ashar47\source\repos\PR_Assignment1_CO2Data\PR_Assignment1_CO2Data\bin\Debug\netcoreapp3.1\resource\co2_alaska.txt
